@@ -75,14 +75,14 @@ const PanelMappingEntry panelMapHub12_32x16Mod4[] =
 
 const PanelMappingEntry panelMap32x16Mod4[] =
 {
-    {0, 0,  8},
-    {0, 16, 8},
-    {0, 32, 8},
-    {0, 48, 8},
+    {0, 7,  -8},
+    {0, 23, -8},
+    {0, 39, -8},
+    {0, 55, -8},
     {4, 8,  8},
     {4, 24, 8},
     {4, 40, 8},
-    {4, 56, 8}, 
+    {4, 56, 8},
     {0, 0, 0}   // last entry is all zeros
 };
 
